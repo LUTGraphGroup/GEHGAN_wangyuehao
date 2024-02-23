@@ -1,4 +1,4 @@
-Run train2 directly to run this code
+Put data599 and data2738 into the root directory of R1469 and run train2 directly to run this code
 
 Running environment
 Python==3.9
